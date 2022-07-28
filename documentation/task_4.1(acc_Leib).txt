@@ -1,0 +1,4 @@
+The value of the number of terms in the series of the Leibniz formula (the more, the closer to Pi) 10^{6}, for example:
+1000000
+
+Leibniz formula (формула Лейбница) x = 4 - 4/3 + 4/5 -4/7 + 4/9... ->Pi чем больше слагаемых, тем ближе к Пи
